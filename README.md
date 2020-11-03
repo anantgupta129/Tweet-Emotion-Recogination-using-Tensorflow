@@ -17,3 +17,5 @@ This dataset is great for starting NLP
 6. Creating the Model
 7. Training the Model
 8. Evaluating the Model
+
+The model is made by using RNN approach
