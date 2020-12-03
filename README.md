@@ -14,8 +14,8 @@ This dataset is great for starting NLP
 3. Tokenizer
 4. Padding and Truncating Sequences
 5. Preparing Labels
-6. Creating the Model
-7. Training the Model
-8. Evaluating the Model
+6. Creating Model
+7. Training Model
+8. Evaluating Model
 
 The model is made by using RNN approach
